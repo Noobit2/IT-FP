@@ -1,0 +1,14 @@
+/* Add this to the existing styles.css */
+section#contact p {
+  font-size: 1rem;
+  color: #555;
+}
+
+section#contact a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+section#contact a:hover {
+  text-decoration: underline;
+}
