@@ -2,7 +2,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  Poverty Awareness
+  "News Report"
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -22,7 +22,7 @@
 
   <section id="about" class="section">
     <div class="container">
-      <h2>About Poverty</h2>
+      <h2>News Update</h2>
       <p>Poverty is a global issue that affects millions of people. It refers to the lack of resources to meet basic needs such as food, shelter, and education.</p>
     </div>
   </section>
