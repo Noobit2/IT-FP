@@ -35,13 +35,13 @@
 
 Duterte told reporters Wednesday, December 11 that she would not accept replacements from the Armed Forces if they remove her current security personnel, saying she would rather "seek security arrangements outside" the military. 
 
-She shared her plans during a press conference after hosting the media for lunch at the Office of the Vice President's headquarters.
+She shared her plans during a press conference after hosting the media for lunch at the Office of the Vice President's headquarters.<li>
 
-If Duterte proceeds with her plan, it marks a sharp departure from decades of practice in which the country's second-highest official relied on elite military and police units for protection. 
+<li>If Duterte proceeds with her plan, it marks a sharp departure from decades of practice in which the country's second-highest official relied on elite military and police units for protection. 
 
-This comes after AFP chief Gen. Romeo Brawner Jr. announced on November 27 the replacement of Duterte's security detail, including its commander Col. Raymund Dante Lachica. The move followed a commotion at the Veterans Memorial Medical Center (VMMC) that prompted the Philippine National Police to sue Duterte and her security personnel for assault and disobedience.
+This comes after AFP chief Gen. Romeo Brawner Jr. announced on November 27 the replacement of Duterte's security detail, including its commander Col. Raymund Dante Lachica. The move followed a commotion at the Veterans Memorial Medical Center (VMMC) that prompted the Philippine National Police to sue Duterte and her security personnel for assault and disobedience.<li>
 
-Duterte said she sent a letter last week to Brawner outright refusing to be protected by a new team of military personnel.
+<li>Duterte said she sent a letter last week to Brawner outright refusing to be protected by a new team of military personnel.
 
 "If they remove personnel, they shouldn't replace them. Just leave whoever remains, and if none remain because they remove everyone, I already said I will seek security arrangements outside of the Armed Forces of the Philippines," she said.
 
@@ -53,9 +53,9 @@ Trust issues. Duterte defended her decision to seek private security, citing iss
 
 "Security is fundamentally a trust and confidence position. It's difficult to entrust your life to somebody you really do not know and it's just put there by somebody who you do not trust as well," she said. 
 
-"I don't trust anyone right now except myself," Duterte quipped.
+"I don't trust anyone right now except myself," Duterte quipped.<li>
 
-The vice president also criticized the AFP's move, emphasizing the military's constitutional duty to protect the country's top leaders. She said: "I told them that there is a line of succession. You're supposed to protect your number two, your one and two because that is your reserve. Because one day, if you don't protect your two, one day, you have no one."
+<li>The vice president also criticized the AFP's move, emphasizing the military's constitutional duty to protect the country's top leaders. She said: "I told them that there is a line of succession. You're supposed to protect your number two, your one and two because that is your reserve. Because one day, if you don't protect your two, one day, you have no one."
 
 The AFP earlier said they received a subpoena from the PNP requiring members of Duterte's security group to be investigated due to the incident at the VMMC last month. A video presented by the Philippine National Police to the media showed Lachica physically pushing the PNP doctor-in-charge during the transfer of OVP chief-of-staff Zuleika Lopez.
 
@@ -81,117 +81,117 @@ Duterte's security detail increased to 443 in 2023, according to COA's annual au
         <li>12 AM
 70%
 Light rain
-29°C
+29°C<li>
 
-1 PM
+<li>1 PM
 70%
 Thunderstorm
-28°C
+28°C<li>
 
-2 PM
+<li>2 PM
 70%
 Thunderstorm
-28°C
+28°C<li>
 
-3 PM
+<li>3 PM
 40%
 Scattered thunderstorms
-28°C
+28°C<li>
 
-4 PM
+<li>4 PM
 40%
 Showers
-27°C
+27°C<li>
 
-5 PM
+<li>5 PM
 40%
 Showers
-27°C
+27°C<li>
 
-6 PM
+<li>6 PM
 20%
 Showers
-27°C
+27°C<li>
 
-7 PM
+<li>7 PM
 Mostly cloudy
-26°C
+26°C<li>
 
-8 PM
+<li>8 PM
 Partly cloudy
-26°C
+26°C<li>
 
-9 PM
+<li>9 PM
 Mostly cloudy
-26°C
+26°C<li>
 
-10 PM
+<li>10 PM
 Mostly cloudy
-26°C
+26°C<li>
 
-11 PM
+<li>11 PM
 Cloudy
-26°C
+26°C<li>
 
-12 AM
+<li>12 AM
 Mostly cloudy
-26°C
+26°C<li>
 
-1 AM
+<li>1 AM
 Partly cloudy
-25°C
+25°C<li>
 
-2 AM
+<li>2 AM
 Partly cloudy
-25°C
+25°C<li>
 
-3 AM
+<li>3 AM
 Partly cloudy
-25°C
+25°C<li>
 
-4 AM
+<li>4 AM
 Partly cloudy
-24°C
+24°C<li>
 
-5 AM
+<li>5 AM
 Partly cloudy
-24°C
+24°C<li>
 
-6 AM
+<li>6 AM
 Partly cloudy
-25°C
+25°C<li>
 
-7 AM
+<li>7 AM
 Partly cloudy
-26°C
+26°C<li>
 
-8 AM
+<li>8 AM
 Partly cloudy
-27°C
+27°C<li>
 
-9 AM
+<li>9 AM
 Partly cloudy
-28°C
+28°C<li>
 
-10 AM
+<li>10 AM
 Partly cloudy
-29°C
+29°C<li>
 
-11 AM
+<li>11 AM
 Partly cloudy
-30°C
+30°C<li>
 
-12 PM
+<li>12 PM
 40%
 Scattered thunderstorms
 31°C
 </li>
-        <li>Precip:70%
+        <li>Precip:70%<li>
           
 
-Humidity:82%
+<li>Humidity:82%<li>
 
-Wind:19 km/h
+<li>Wind:19 km/h
 </li>
       </ul>
     </div>
@@ -208,7 +208,7 @@ Wind:19 km/h
 
   <footer>
     <div class="container">
-      <p>&copy; Today's News. By Philstar.com And Weather Forecast By PAG ASA.</p>
+      &copy; Today's News. By Philstar.com And Weather Forecast By PAG ASA.
     </div>
   </footer>
 </body>
