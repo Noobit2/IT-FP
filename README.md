@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -9,10 +8,10 @@
 <body>
   <header>
     <div class="container">
-      <h1>Poverty Awareness</h1>
+      <h1>News Report</h1>
       <nav>
         <ul>
-          <li><a href="#about">About</a></li>
+          <li><a href="#News update">News update</a></li>
           <li><a href="#causes">Causes</a></li>
           <li><a href="#solutions">Solutions</a></li>
           <li><a href="#contact">Contact</a></li>
