@@ -78,7 +78,7 @@ Duterte's security detail increased to 443 in 2023, according to COA's annual au
       <ul>
         <li>Temperature 29°C</li>
         <li></li>
-        <li>NOW
+        <li>12 AM
 70%
 Light rain
 29°C
