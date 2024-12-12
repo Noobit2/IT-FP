@@ -67,9 +67,7 @@ In 2022, 433 people served in Duterte's security and protection group, a 455% in
 Duterte's security detail increased to 443 in 2023, according to COA's annual audit report. 
 
 </li>
-     </ul>
-    </div>
-  </section>
+
 
   <section id="Weather Forecast" class="section">
     <div class="container">
@@ -191,9 +189,7 @@ Scattered thunderstorms
 <li>Humidity:82%
 
 <li>Wind:19 km/h
-      </ul>
-    </div>
-  </section>
+  
 
   <section id="For more news Information" class="section">
     <div class="container">
@@ -209,5 +205,3 @@ Scattered thunderstorms
       &copy; Today's News. By Philstar.com And Weather Forecast By PAG ASA.
     </div>
   </footer>
-</body>
-</html>
