@@ -11,7 +11,7 @@
       <h1>News Report</h1>
       <nav>
         <ul>
-          <li><a href="#News update">News update</a></li>
+          <li><a href="#News Title">News Title</a></li>
           <li><a href="#causes">Causes</a></li>
           <li><a href="#solutions">Solutions</a></li>
           <li><a href="#contact">Contact</a></li>
@@ -20,10 +20,10 @@
     </div>
   </header>
 
-  <section id="News Update" class="section">
+  <section id="News Title" class="section">
     <div class="container">
-      <h2>News Update</h2>
-      <p>Poverty is a global issue that affects millions of people. It refers to the lack of resources to meet basic needs such as food, shelter, and education.</p>
+      <h2>News Title</h2>
+      <p>Sara Duterte eyes hiring of private security due to distrust in military.</p>
     </div>
   </section>
 
