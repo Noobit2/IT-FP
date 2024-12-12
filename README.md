@@ -14,7 +14,7 @@
           <li><a href="#News Title">News Title</a></li>
           <li><a href="#News Body">News Body</a></li>
           <li><a href="#Weather Forecast">Weather Forecast</a></li>
-          <li><a href="#contact">Contact</a></li>
+          <li><a href="#For more news Information">For more news Information</a></li>
         </ul>
       </nav>
     </div>
@@ -197,18 +197,17 @@ Wind:19 km/h
     </div>
   </section>
 
-  <section id="contact" class="section">
+  <section id="For more news Information" class="section">
     <div class="container">
-      <h2>Contact Me</h2>
-      <p>Hi, my name is [Your Name]. Feel free to reach out to me if you have any questions or suggestions!</p>
-      <p>Email: <a href="mailto:your.email@example.com">your.email@example.com</a></p>
+      <h2>For more news Information Visit and Email</h2>
+    Websitr: <a href="Philstar.com">Philstar.com</a></p>
       <p>Phone: +123 456 7890</p>
     </div>
   </section>
 
   <footer>
     <div class="container">
-      <p>&copy; 2024 Poverty Awareness. Created by [Your Name].</p>
+      <p>&copy; Today's News. By Philstar.com And Weather Forecast By PAG ASA.</p>
     </div>
   </footer>
 </body>
