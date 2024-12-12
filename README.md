@@ -200,7 +200,7 @@ Wind:19 km/h
   <section id="For more news Information" class="section">
     <div class="container">
       <h2>For more news Information Visit and Email</h2>
-    Websitr: <a href="Philstar.com">Philstar.com</a></p>
+    Website: <a href="Philstar.com">Philstar.com</a></p>
       <p>Phone: +123 456 7890</p>
     </div>
   </section>
