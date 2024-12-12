@@ -77,7 +77,7 @@ Duterte's security detail increased to 443 in 2023, according to COA's annual au
       <p>Batangas City</p>
       <ul>
         <li>Temperature 29°C</li>
-        <li></li>
+        <li>Feels like 36°C</li>
         <li>12 AM
 70%
 Light rain
