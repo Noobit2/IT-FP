@@ -12,7 +12,7 @@
       <nav>
         <ul>
           <li><a href="#News Title">News Title</a></li>
-          <li><a href="#causes">Causes</a></li>
+          <li><a href="#News Body">News Body</a></li>
           <li><a href="#solutions">Solutions</a></li>
           <li><a href="#contact">Contact</a></li>
         </ul>
@@ -27,9 +27,9 @@
     </div>
   </section>
 
-  <section id="causes" class="section">
+  <section id="News Body" class="section">
     <div class="container">
-      <h2>Causes of Poverty</h2>
+      <h2>News Body</h2>
       <ul>
         <li>Lack of access to education</li>
         <li>Unemployment and underemployment</li>
