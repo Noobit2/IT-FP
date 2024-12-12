@@ -20,7 +20,7 @@
     </div>
   </header>
 
-  <section id="about" class="section">
+  <section id="News Update" class="section">
     <div class="container">
       <h2>News Update</h2>
       <p>Poverty is a global issue that affects millions of people. It refers to the lack of resources to meet basic needs such as food, shelter, and education.</p>
