@@ -82,85 +82,110 @@ Duterte's security detail increased to 443 in 2023, according to COA's annual au
 70%
 Light rain
 29°
+
 1 PM
 70%
 Thunderstorm
 28°
+
 2 PM
 70%
 Thunderstorm
 28°
+
 3 PM
 40%
 Scattered thunderstorms
 28°
+
 4 PM
 40%
 Showers
 27°
+
 5 PM
 40%
 Showers
 27°
+
 6 PM
 20%
 Showers
 27°
+
 7 PM
 Mostly cloudy
 26°
+
 8 PM
 Partly cloudy
 26°
+
 9 PM
 Mostly cloudy
 26°
+
 10 PM
 Mostly cloudy
 26°
+
 11 PM
 Cloudy
 26°
+
 12 AM
 Mostly cloudy
 26°
+
 1 AM
 Partly cloudy
 25°
+
 2 AM
 Partly cloudy
 25°
+
 3 AM
 Partly cloudy
 25°
+
 4 AM
 Partly cloudy
 24°
+
 5 AM
 Partly cloudy
 24°
+
 6 AM
 Partly cloudy
 25°
+
 7 AM
 Partly cloudy
 26°
+
 8 AM
 Partly cloudy
 27°
+
 9 AM
 Partly cloudy
 28°
+
 10 AM
 Partly cloudy
 29°
+
 11 AM
 Partly cloudy
 30°
+
 12 PM
 40%
 Scattered thunderstorms
-31°</li>
+31°
+</li>
         <li>Precip:70%
           
 
