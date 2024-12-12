@@ -162,8 +162,12 @@ Partly cloudy
 Scattered thunderstorms
 31°</li>
         <li>Precip:70%
+          
+
 Humidity:82%
-Wind:19 km/h</li>
+
+Wind:19 km/h
+</li>
       </ul>
     </div>
   </section>
