@@ -65,10 +65,7 @@ Necessary change. Brawner has clarified that the change in personnel was necessa
 In 2022, 433 people served in Duterte's security and protection group, a 455% increase from the 78 detailed military personnel assigned to Vice President Leni Robredo during her last full term in 2021, according to the Commission on Audit (COA).
 
 Duterte's security detail increased to 443 in 2023, according to COA's annual audit report. 
-
 </li>
-
-
   <section id="Weather Forecast" class="section">
     <div class="container">
       <h2>Weather Forecast</h2>
@@ -189,9 +186,7 @@ Scattered thunderstorms
 <li>Humidity:82%
 
 <li>Wind:19 km/h
-  
-
-  <section id="For more news Information" class="section">
+    <section id="For more news Information" class="section">
     <div class="container">
       <h2>For more news Information Visit and Email</h2>
     Website: <a href="Philstar.com">Philstar.com</a></p> 
