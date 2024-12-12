@@ -13,7 +13,7 @@
         <ul>
           <li><a href="#News Title">News Title</a></li>
           <li><a href="#News Body">News Body</a></li>
-          <li><a href="#solutions">Solutions</a></li>
+          <li><a href="#Weather Forecast">Weather Forecast</a></li>
           <li><a href="#contact">Contact</a></li>
         </ul>
       </nav>
@@ -71,9 +71,9 @@ Duterte's security detail increased to 443 in 2023, according to COA's annual au
     </div>
   </section>
 
-  <section id="solutions" class="section">
+  <section id="Weather Forecast" class="section">
     <div class="container">
-      <h2>Solutions to Poverty</h2>
+      <h2>Weather Forecast</h2>
       <p>Addressing poverty requires a collective effort through:</p>
       <ul>
         <li>Improving access to education</li>
